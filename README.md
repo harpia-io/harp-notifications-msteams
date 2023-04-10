@@ -1,4 +1,4 @@
-## Harp Notifications Microsoft Teams Service
+## Open Source Incident Management system - Harp Notifications Microsoft Teams Service
 
 ### Full info about Project - https://github.com/harpia-io/harpia
 
